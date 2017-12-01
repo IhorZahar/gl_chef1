@@ -1,9 +1,14 @@
-# Tools
+# Tasks:
+- Install specified in list below.
+
+# Tools:
 - VirtualBox: (v5.1.30) https://www.virtualbox.org/wiki/Download_Old_Builds_5_1
 - ChefDK:  (v1.4.3) https://downloads.chef.io/chefdk/stable/1.4.3
 - Vagrant: (v1.9.7) https://releases.hashicorp.com/vagrant/1.9.7/
 - Atom: https://atom.io/
 
+# Checklist:
+- Makes sure you'r getting following output on your workstation.
 ```
 $ chef --version
 Chef Development Kit Version: 1.4.3
