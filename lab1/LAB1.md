@@ -1,5 +1,5 @@
 # Tasks:
-- Install specified in list below.
+- Install software specified in list below.
 
 # Tools:
 - VirtualBox: (v5.1.30) https://www.virtualbox.org/wiki/Download_Old_Builds_5_1
@@ -8,7 +8,7 @@
 - Atom: https://atom.io/
 
 # Checklist:
-- Makes sure you'r getting following output on your workstation.
+- Make sure you're getting following output on your workstation.
 ```
 $ chef --version
 Chef Development Kit Version: 1.4.3
