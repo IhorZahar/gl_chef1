@@ -1,10 +1,9 @@
-# Tasks: 
-- Create working directory.
-- Create Vagrantfile in directory.
-- Up vagrant machine.
-- SSH to and check machine OS.
-- Destroy machine.
+# Tasks:
+- generate cookbook with `chef generate cookbook <name>` command
+- Add content to recipes/default.rb
+- Add Vagrantfile
+- Up/Provision your machine
 
 # Checklist:
-- you're able to ssh to your new machine.
-- you can `uname -a` inside.
+- Log-in to your machine
+- Check content of created file with `cat`
